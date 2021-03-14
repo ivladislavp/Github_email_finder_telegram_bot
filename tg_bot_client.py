@@ -1,6 +1,6 @@
 import requests, telebot, time
 
-tkn = '1451330391:AAESm820jEzDIy1PSB49EukL6ecBndsG3co'
+tkn = 'your_bot_token_here'
 bot = telebot.TeleBot(tkn)
 
 
